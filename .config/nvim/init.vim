@@ -22,7 +22,7 @@ call plug#begin('~/.config/nvim/plugged')
 "color-schemes
     Plug 'blueshirts/darcula'
 call plug#end()
-
+" TODO 04/08/20 12:35 > add Todo manager
 "ctrlp
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
@@ -62,7 +62,7 @@ let g:lightline = {
       \ 'separator': { 'left': ' ', 'right': ' ' },
       \ 'subseparator': { 'left': ' ', 'right': ' ' }
   \ }
-
+" TODO 04/08/20 12:35 > add fugitive to lightline
 function! FilenameForLightline() " Show full path of filename
     return expand('%')
 endfunction

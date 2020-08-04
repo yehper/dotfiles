@@ -1,0 +1,40 @@
+[global_config]
+  scroll_tabbar = True
+  homogeneous_tabbar = False
+  title_transmit_fg_color = "#2e3436"
+  title_transmit_bg_color = "#8ae234"
+  title_inactive_fg_color = "#f3f3f3"
+  title_inactive_bg_color = "#4e9a06"
+[keybindings]
+[profiles]
+  [[default]]
+    allow_bold = False
+    background_color = "#0d0d0d"
+    background_darkness = 0.9
+    background_type = transparent
+    cursor_color = "#ffffff"
+    font = Ubuntu Mono derivative Powerline Bold 12
+    foreground_color = "#f8f8f2"
+    scrollbar_position = hidden
+    palette = "#75715e:#f92672:#a6e22e:#f4bf75:#66d9ef:#9358fe:#36af90:#f8f8f2:#75715e:#f92672:#a7e22e:#f4bf75:#5fd9ef:#ae82fe:#66efd5:#f8f8f2"
+    use_system_font = False
+    use_theme_colors = True
+  [[monokai]]
+    allow_bold = False
+    background_color = "#0d0d0d"
+    cursor_color = "#ffffff"
+    font = DejaVu Sans Mono 10
+    foreground_color = "#ffffff"
+    palette = "#000000:#f92672:#6cc72c:#fe9720:#5f91ef:#9358fe:#36af90:#8c8c8c:#4c4c4c:#ff80f4:#a7e22e:#ffee99:#5fd9ef:#ae82fe:#66efd5:#c7cece"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+    [[[window0]]]
+      type = Window
+      parent = ""
+      size = 750, 500
+[plugins]

@@ -8,7 +8,7 @@ call plug#begin('~/.config/nvim/plugged')
     Plug 'junegunn/goyo.vim' " no-distraction mode
     Plug 'ctrlpvim/ctrlp.vim' " Fuzzy search, MRU, and Buffer viewer
     Plug 'maxbrunsfeld/vim-yankstack' " multiple yanks
-    Plug 'itchyny/lightline.vim'
+    Plug 'itchyny/lightline.vim' " equivalent to powerline
     Plug 'airblade/vim-gitgutter'
     Plug 'junegunn/limelight.vim'
     Plug 'scrooloose/nerdtree'

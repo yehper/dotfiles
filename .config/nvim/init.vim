@@ -11,7 +11,10 @@ call plug#begin('~/.config/nvim/plugged')
     Plug 'junegunn/limelight.vim' " Fucus on block
     Plug 'scrooloose/nerdtree' " fm integration
     Plug 'Xuyuanp/nerdtree-git-plugin' " visual git status for nerdtre visual git status for nerdtree
-    Plug 'tpope/vim-fugitive' " git integration
+
+    Plug 'junegunn/fzf', { 'do': { -> fzf#install() } } " Fuzzy finder for vim
+    Plug 'junegunn/fzf.vim'
+    Plug 'vim-scripts/TaskList.vim'
 "syntax
     Plug 'tpope/vim-markdown' " markdown support
     Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']} " markdown preview
@@ -21,8 +24,11 @@ call plug#begin('~/.config/nvim/plugged')
 
 "color-schemes
     Plug 'blueshirts/darcula'
+    Plug 'morhetz/gruvbox'
+"    Plug 'chriskempson/base16-default-schemes'
+    Plug 'chriskempson/base16-vim'
 call plug#end()
-" TODO 04/08/20 12:35 > add Todo manager
+
 "ctrlp
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
@@ -57,12 +63,12 @@ let g:lightline = {
       \   'fugitive': '(exists("*fugitive#head") && ""!=fugitive#head())'
       \ },
       \ 'component_function': {
-      \   'filename': 'FilenameForLightline'
+      \   'filename': 'FilenameForLightline',
+      \   'gitbranch': 'FugitiveHead'
       \ },
       \ 'separator': { 'left': ' ', 'right': ' ' },
       \ 'subseparator': { 'left': ' ', 'right': ' ' }
   \ }
-" TODO 04/08/20 12:35 > add fugitive to lightline
 function! FilenameForLightline() " Show full path of filename
     return expand('%')
 endfunction
@@ -272,8 +278,8 @@ map <leader>nb :NERDTreeFromBookmark<Space>
 map <leader>nf :NERDTreeFind<cr>
 
 " splits
-nnoremap <leader>sh sf
-nnoremap <leader>ss :vert sf 
+nnoremap <leader>sh :sf
+nnoremap <leader>ss :vert ff 
 
 " resize window
 nnoremap <Up> :resize +2<CR> 
@@ -302,12 +308,18 @@ vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 map <silent> <leader><cr> :noh<cr>
 
 " Close the current buffer
-map <leader>bq :Bclose<cr>:tabclose<cr>gT
+map <leader>bq :bd<cr>
 " Close all the buffers
 map <leader>ba :bufdo bd<cr>
 map <leader>bl :bnext<cr>
 map <leader>bh :bprevious<cr>
-" TODO 04/08/20 11:05 > improve tab navigation
+"show buffers
+nmap <leader>bb :Buffers<cr>
+" tab navigation
+nnoremap tl :tabnext<CR>
+nnoremap th :tabprev<CR>
+nnoremap tf  :tabfind<Space>
+nnoremap tq  :tabclose<CR>
 
 " Move a line of text using leader+[-=]
 nmap <Leader>- mz:m+<cr>`z
@@ -328,6 +340,16 @@ nnoremap <C-s> :source ~/.config/nvim/init.vim<CR>
 imap jk <esc>
 "create shell buffer
 nmap <leader>t :bo 15sp +te<cr>
+
+map <leader>. :colo base16-
+map <F1> :colorscheme darcula<CR>
+map <F2> :colorscheme gruvbox<CR>
+map <F3> :colorscheme base16-default-dark<CR>
+map <F4> :colorscheme base16-ashes<CR>
+map <F5> :colorscheme base16-onedark<CR>
+map <F6> :colorscheme base16-tomorrow-night-eighties<CR>
+map <F7> :colorscheme base16-paraiso<CR>
+map <F8> :colorscheme base16-railscasts<CR>
 
 " Smart mappings on the command line
 cno $h e ~/
@@ -366,10 +388,6 @@ set guioptions-=R
 set guioptions-=l
 set guioptions-=L
 
-"map <F1> :colorscheme gruvbox<CR>
-"map <F2> :colorscheme base16-default-dark<CR>
-"map <F3> :colorscheme hybrid_reverse<CR>
-"map <F4> :colorscheme PaperColor<CR>
 "map <F5> :colorscheme spacegray<CR>
 " TODO 04/08/20 11:23 > add more colorschemes
 

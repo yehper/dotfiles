@@ -87,6 +87,7 @@ export TERM=xterm-256color
 # User configuration
 #source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 setopt correct
+setopt vi
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
@@ -112,7 +113,6 @@ setopt correct
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls='exa -al --color=always --group-directories-first'
 neofetch
-# --disable packages wm icons resolution term theme --cpu_brand off --cpu_speed off --cpu_temp C --cpu_cores physical --memory_percent on --gpu_temp on
 alias vim='nvim'
 alias update="source ~/.zshrc"
 
@@ -121,8 +121,10 @@ alias glog="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%
 
 # show my ip
 alias myip="curl http://ipecho.net/plain; echo"
+# rotate screen
 alias rot1="xrandr --output HDMI-0 --rotate"
 alias rot2="xrandr --output DP-1 --rotate"
+
 alias sp="spotifycli"
 alias storage='du -h -d1'
 

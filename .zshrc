@@ -87,18 +87,19 @@ export TERM=xterm-256color
 # User configuration
 #source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 setopt correct
-setopt vi
+set -o vi
+bindkey -v
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+Preferred editor for local and remote sessions
+if [[ -n $SSH_CONNECTION ]]; then
+  export EDITOR='vim'
+else
+  export EDITOR='mvim'
+fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
@@ -139,3 +140,5 @@ export PATH
 export HISTCONTROL=ignoreboth
 
 alias config='/usr/bin/git --git-dir=/home/yp/.cfg/ --work-tree=/home/yp'
+alias rc='vim ~/.zsh'
+alias lyrics="clear && spotifycli --song && spotifycli --artist && spotifycli --album && echo "________________________" && spotifycli --lyrics"

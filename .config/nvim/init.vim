@@ -1,4 +1,3 @@
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Plugins
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 call plug#begin('~/.config/nvim/plugged')
@@ -25,7 +24,6 @@ call plug#begin('~/.config/nvim/plugged')
 "color-schemes
     Plug 'blueshirts/darcula'
     Plug 'morhetz/gruvbox'
-"    Plug 'chriskempson/base16-default-schemes'
     Plug 'chriskempson/base16-vim'
 call plug#end()
 
@@ -44,7 +42,6 @@ let g:NERDTreeDirArrowExpandable = '▸'
 let g:NERDTreeDirArrowCollapsible = '▾'
 
 "lightline
-
 let g:lightline = {
       \ 'colorscheme': 'wombat',
       \ 'active': {
@@ -76,7 +73,6 @@ endfunction
 "Goyo settings
 function! s:goyo_enter()
     set noshowmode
-    set noshowcmd
     set nocursorline
     CocDisable
     Limelight
@@ -84,7 +80,6 @@ endfunction
 
 function! s:goyo_leave()
     set showmode
-    set showcmd
     set cursorline
     CocEnable
     Limelight!
@@ -111,50 +106,59 @@ command! -nargs=0 Prettier :CocCommand prettier.formatFile
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " General Settings
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set nocompatible
 
-set encoding=UTF-8
-set ffs=unix,dos,mac " Use Unix as the standard file type
-filetype plugin indent on
-syntax enable
-set history=500 " Sets how many lines of history VIM has to remember
-set hidden " Sets buffers are hidden instead of closed when moved from
-set autoread " Set to auto read when a file is changed from the outside
+set incsearch " Incremental search view
+set magic " behaviour of slash in patterns
+set ignorecase " case sensitivity
+set smartcase " no ignorecase when using upper case in search pattern
+
+set wrap " wrap long lines
+set showbreak=⤥\ \ 
 set so=7 " Set 7 lines to the cursor - when moving vertically using j/k
+set nu " Show line numbers
+set rnu " Show relative line numbers
+set lbr "enable linebreak after 'tw' characters
+
+set background=dark " the background color brightness
+syntax enable
+set termguicolors " use GUI colors for the terminal
+set cursorline "highlight the line of the cursor
+set hlsearch " Highlight search results
+
+set hidden " Sets buffers are hidden instead of closed when moved from set autoread " Set to auto read when a file is changed from the outside
+set splitbelow splitright " split directions
+
+set mouse=a " enable mouse in all modes
+
+set showcmd " show partial commands on statusline
+set ruler "Always show current position
+set confirm " start a dialog when a command fails
+
+set clipboard=unnamedplus " using the clipboard as default register
+ 
+set backspace=indent,eol,start " backspace behaviour
+set tw=500 " number of characters per line (in which it breaks)
+
+set smarttab autoindent smartindent expandtab  " <tab> behaviour
+set shiftwidth=4 tabstop=8 softtabstop=4 " <tab> widths
+
+set writebackup " backup before writing
+set nobackup " don't backup after writing
+set ffs=unix,dos,mac " Use Unix as the standard file type
+
+" TODO 08/08/20 13:55 > define folding
+
+set history=500 " Sets how many lines of history VIM has to remember
 set wildmenu " Turn on the Wild menu
 set wildignore=*.o,*~,*.pyc " Ignore compiled files
-set ruler "Always show current position
-set lbr " Linebreak on 500 characters
-set tw=500
-set mouse=a
-set clipboard=unnamedplus " using the clipboard as default register
 
-"" Use spaces instead of tabs
-"set expandtab
-"
-"" Be smart when using tabs ;)
-"set smarttab
-"
-"" 1 tab == 4 spaces
-"set shiftwidth=4
-"set tabstop=4
-"set shiftwidth=4
-set shiftwidth=4 autoindent smartindent tabstop=4 softtabstop=4 expandtab wrap
-set backspace=indent,eol,start confirm
+set encoding=UTF-8 " encoding you know
 
-set splitbelow
-set splitright
+" commands and functions
+"++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-set nowritebackup
-set nobackup
-set nowb
-set noswapfile
-
-set nu
-set rnu
-
-set ignorecase
-set smartcase
-set hlsearch " Highlight search results
+filetype plugin indent on
 
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 command! W execute 'w !sudo tee % > /dev/null' <bar> edit! " (useful for handling the permission-denied error)  :W sudo saves the file 
@@ -167,6 +171,7 @@ endif
 "source init after each save
 autocmd! bufwritepost ~/.config/nvim/init.vim source ~/.config/nvim/init.vim
 
+" add wildignores based on system
 if has("win16") || has("win32")
     set wildignore+=.git\*,.hg\*,.svn\*
 else
@@ -182,19 +187,21 @@ fun! CleanExtraSpaces()
     call setreg('/', old_query)
 endfun
 
+" overwrite DiffOrig to show syntax-highlighting (by forcing filetype)
+command! -bar DiffOrig
+    \   vnew +set\ buftype=nofile
+    \ | let &filetype = getbufvar(0, '&filetype')
+    \ | read ++edit #
+    \ | 1delete_
+    \ | diffthis
+    \ | wincmd p
+    \ | diffthis
 
-""status line
-"set cmdheight=1
-"set statusline=
-"set statusline+=%#IncSearch#
-"set statusline+=\ %y
-"set statusline+=\ %r
-"set statusline+=%#CursorLineNr#
-"set statusline+=\ %F
-"set statusline+=%= "Right side settings
-"set statusline+=%#Search#
-"set statusline+=\ %l/%L
-"set statusline+=\ [%c]
+" restore cursor position
+autocmd BufReadPost 
+  \ if line("'\"") >= 1 && line("'\"") <= line("$") && &ft !~# 'commit'
+  \ |   exe "normal! g`\""
+  \ | endif
 
 " Don't close window, when deleting a buffer
 command! Bclose call <SID>BufcloseCloseIt()
@@ -217,10 +224,12 @@ function! <SID>BufcloseCloseIt()
     endif
 endfunction
 
+" helper for visualselection
 function! CmdLine(str)
     call feedkeys(":" . a:str)
 endfunction 
 
+" handle visual selection search operations
 function! VisualSelection(direction, extra_filter) range
     let l:saved_reg = @"
     execute "normal! vgvy"
@@ -238,6 +247,7 @@ function! VisualSelection(direction, extra_filter) range
     let @" = l:saved_reg
 endfunction
 
+" delete until a slash in cmd
 func! DeleteTillSlash()
     let g:cmd = getcmdline()
 
@@ -279,7 +289,7 @@ map <leader>nf :NERDTreeFind<cr>
 
 " splits
 nnoremap <leader>sh :sf
-nnoremap <leader>ss :vert ff 
+nnoremap <leader>ss :vert sf 
 
 " resize window
 nnoremap <Up> :resize +2<CR> 
@@ -305,6 +315,9 @@ nmap <leader>ws :W<cr>
 " Visual mode pressing * or # searches for the current selection
 vnoremap <silent> * :<C-u>call VisualSelection('', '')<CR>/<C-R>=@/<CR><CR>
 vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
+" When you press <leader>r you can search and replace the selected text
+vnoremap <silent> <leader>r :call VisualSelection('replace', '')<CR>
+" turn off highlight-searching
 map <silent> <leader><cr> :noh<cr>
 
 " Close the current buffer
@@ -356,7 +369,6 @@ cno $h e ~/
 cno $d e ~/Documents/
 cno $j e ~/Downloads/
 cno $c e <C-\>eCurrentFileDir("e")<cr>
-
 " it deletes everything until the last slash 
 cno $/ <C-\>eDeleteTillSlash()<cr>
 
@@ -389,14 +401,12 @@ set guioptions-=l
 set guioptions-=L
 
 "map <F5> :colorscheme spacegray<CR>
-" TODO 04/08/20 11:23 > add more colorschemes
 
 "Color Settings
 colorscheme darcula
-set background=dark cursorline termguicolors
 "
 "hi! Normal ctermbg=NONE guibg=NONE 
-"hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE 
+"hi! NonText ctermbg=NONE guibg=NONE guifg=NONE  ctermfg=NONE 
 hi Search guibg=wheat guifg=purple
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -412,3 +422,12 @@ au FileType vim iab todo " TODO <c-r>=strftime("%d/%m/%y %H:%M")<cr> >
 
 iab xjtodo // TODO <c-r>=strftime("%d/%m/%y")<cr> >
 
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Credits
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" this rc was built over a long period of time so I obviously borrowed parts of many other rc's
+" I did not collect all of them but among them the ones that stand out more are
+" Amir Salihefendic's:  https://github.com/amix/vimrc
+" Nick Nisi's https://github.com/nicknisi/vim-workshop/blob/master/vimrc
+" My own prefferations, and some minor picks from here and there...

@@ -36,6 +36,7 @@ let g:ctrlp_working_path_mode = 'ra'
 "Nerd Tree
 let g:NERDTreeWinPos = "right"
 let NERDTreeShowHidden=1
+
 let NERDTreeIgnore = ['\.pyc$', '__pycache__']
 let g:NERDTreeWinSize=35
 let g:NERDTreeDirArrows = 1
@@ -127,6 +128,7 @@ set termguicolors " use GUI colors for the terminal
 set cursorline "highlight the line of the cursor
 set hlsearch " Highlight search results
 
+set laststatus=2
 set hidden " Sets buffers are hidden instead of closed when moved from set autoread " Set to auto read when a file is changed from the outside
 set splitbelow splitright " split directions
 

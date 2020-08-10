@@ -348,14 +348,14 @@ map <leader>q :e ~/Documents/.buffer<cr>
 " Quickly open a markdown buffer for scribble
 map <leader>x :e ~/Documents/.md-buffer.md<cr>
 " Quickly load config
-map <leader>e :e! ~/.config/nvim/init.vim<cr>
+map <leader>e :e! $XDG_CONFIG_HOME/nvim/init.vim<cr>
 " Quick resourcing of the init
-nnoremap <C-s> :source ~/.config/nvim/init.vim<CR>
+nnoremap <C-s> :source $XDG_CONFIG_HOME/nvim/init.vim<CR>
 
 " easier exit from insert mode
 imap jk <esc>
 "create shell buffer
-nmap <leader>t :bo 15sp +te<cr>
+nmap <leader>c :bo 15sp +te<cr>
 
 map <leader>. :colo base16-
 map <F1> :colorscheme darcula<CR>

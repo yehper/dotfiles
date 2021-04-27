@@ -1,6 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-PATH="/usr/local/itksnap-3.8.0-20190612-Linux-gcc64/bin:/usr/local/pycharm-community-2020.2.3/bin:$HOME/.cargo/bin${PATH:+:${PATH}}:$HOME/Documents/scripts"
+PATH="/opt/anaconda/bin:/usr/local/itksnap-3.8.0-20190612-Linux-gcc64/bin:/usr/local/pycharm-community-2020.2.3/bin:$HOME/.cargo/bin${PATH:+:${PATH}}:$HOME/Documents/scripts"
 # Path to your oh-my-zsh installation.
 export ZSH="/home/yp/.oh-my-zsh"
 export XDG_CONFIG_HOME="/home/yp/.config"
@@ -82,6 +82,7 @@ plugins=(
     zsh-autosuggestions
     web-search
 )
+ZSH_AUTOSUGGEST_STRATEGY=(history completion)
 
 
 source $ZSH/oh-my-zsh.sh
@@ -92,8 +93,6 @@ setopt correct
 set -o vi
 bindkey -v
 
-source /usr/share/fzf/completion.zsh
-source /usr/share/fzf/key-bindings.zsh
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
@@ -160,20 +159,20 @@ alias aptls="aptitude search '~i!~M' | fzf"
 alias allmd2pdf="$HOME/Documents/scripts/md-convert-all.sh"
 alias allmd2pdf-onefile="$HOME/Documents/scripts/md-convert-all-onefile.sh"
 alias open="xdg-open"
-source /opt/ros/noetic/setup.zsh
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/yp/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+__conda_setup="$('/opt/anaconda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/yp/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/yp/anaconda3/etc/profile.d/conda.sh"
+    if [ -f "/opt/anaconda/etc/profile.d/conda.sh" ]; then
+        . "/opt/anaconda/etc/profile.d/conda.sh"
     else
-        export PATH="/home/yp/anaconda3/bin:$PATH"
+        export PATH="/opt/anaconda/bin:$PATH"
     fi
 fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+export FZF_DEFAULT_COMMAND='find .'

@@ -1,0 +1,271 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="5" l="1620464619323" />
+    </e>
+    <e n="$Delete">
+      <i c="1" l="1621399441756" />
+    </e>
+    <e n="$Paste">
+      <i c="2" l="1620464623912" />
+    </e>
+    <e n="ActivateDocumentationToolWindow">
+      <i c="1" l="1619813481743" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="1" l="1621322147478" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="1" l="1621675686375" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="3" l="1621675950030" />
+    </e>
+    <e n="CheckinProject">
+      <i c="1" l="1620164472609" />
+    </e>
+    <e n="ChooseRunConfiguration">
+      <i c="6" l="1621322867042" />
+    </e>
+    <e n="CollapseSelection">
+      <i c="2" l="1619807226500" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="41" l="1620464899946" />
+    </e>
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1619469648129" />
+    </e>
+    <e n="CreateLauncherScript">
+      <i c="2" l="1621322258760" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="91" l="1621719203495" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="112" l="1621719206039" />
+    </e>
+    <e n="EditorCompleteStatement">
+      <i c="1" l="1620496407739" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1621322263473" />
+    </e>
+    <e n="EditorDeleteToWordEnd">
+      <i c="9" l="1620464960205" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="5" l="1619813084743" />
+    </e>
+    <e n="EditorDown">
+      <i c="14" l="1620463870061" />
+    </e>
+    <e n="EditorEnter">
+      <i c="4" l="1621675808632" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1619796587791" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="7" l="1619813261071" />
+    </e>
+    <e n="EditorStartNewLineBefore">
+      <i c="4" l="1620496656394" />
+    </e>
+    <e n="EditorTab">
+      <i c="5" l="1621719201941" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1619798636148" />
+    </e>
+    <e n="EditorUp">
+      <i c="4" l="1620463870630" />
+    </e>
+    <e n="Git.Pull">
+      <i c="6" l="1619646588706" />
+    </e>
+    <e n="Git.Stash">
+      <i c="1" l="1619646463392" />
+    </e>
+    <e n="Github.Accounts.AddGHAccount">
+      <i c="1" l="1619646252883" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="25" l="1621719209508" />
+    </e>
+    <e n="GotoNextError">
+      <i c="1" l="1620464137181" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1620459414673" />
+    </e>
+    <e n="InsertLiveTemplate">
+      <i c="5" l="1620464444892" />
+    </e>
+    <e n="JupyterDebugAction">
+      <i c="1" l="1620464541804" />
+    </e>
+    <e n="JupyterInterruptKernelAction">
+      <i c="1" l="1620464280775" />
+    </e>
+    <e n="JupyterRestartKernelAction">
+      <i c="7" l="1621676041835" />
+    </e>
+    <e n="NotebookRunAllAction">
+      <i c="67" l="1621676138185" />
+    </e>
+    <e n="NotebookRunCellAction">
+      <i c="64" l="1621675829401" />
+    </e>
+    <e n="OpenFile">
+      <i c="6" l="1620459370448" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="7" l="1619811696516" />
+    </e>
+    <e n="PublishJupyterNotebookAction">
+      <i c="1" l="1621675373324" />
+    </e>
+    <e n="PyExecuteCellAction">
+      <i c="1" l="1621719207911" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="2" l="1621675565192" />
+    </e>
+    <e n="ReformatCode">
+      <i c="45" l="1620464974534" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1619469932796" />
+    </e>
+    <e n="Resume">
+      <i c="1" l="1620464830451" />
+    </e>
+    <e n="RevealIn">
+      <i c="2" l="1620162484381" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1619472361181" />
+    </e>
+    <e n="SaveAll">
+      <i c="10" l="1621676109066" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1619813478981" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="6" l="1621400212285" />
+    </e>
+    <e n="ShowSettings">
+      <i c="17" l="1621322517467" />
+    </e>
+    <e n="StepOver">
+      <i c="74" l="1620464826163" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1620464858028" />
+    </e>
+    <e n="Switcher">
+      <i c="14" l="1619813488834" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="7" l="1620464827532" />
+    </e>
+    <e n="Vcs.ShowTabbedFileHistory">
+      <i c="1" l="1621675046271" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1620463467273" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1619468319529" />
+    </e>
+    <e n="XDebugger.NewWatch">
+      <i c="3" l="1620464622506" />
+    </e>
+    <e n="com.intellij.cloudConfig.CloudConfigSyncPluginsAction">
+      <i c="1" l="1619470063021" />
+    </e>
+    <e n="com.intellij.cloudConfig.CloudConfigWidget$1">
+      <i c="1" l="1619470008733" />
+    </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$DiffToolToggleAction">
+      <i c="1" l="1621675123488" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="1" l="1621322895982" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1619797868057" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="2" l="1619469975010" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1619472233771" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="1124" l="1621719203495" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="2" l="1620464909763" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.TextEditorWithPreview$ChangeViewModeAction">
+      <i c="10" l="1621674619168" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1619813481692" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="4" l="1621675900796" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1619472343377" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
+      <i c="1" l="1621601353303" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="11" l="1621675158108" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1619468309362" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1619472623738" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1620464828864" />
+    </e>
+    <e n="com.jetbrains.python.console.PyConsoleUtil$1">
+      <i c="2" l="1621322890726" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="87" l="1621719226153" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="10" l="1619472621299" />
+    </e>
+    <e n="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
+      <i c="1" l="1619472541436" />
+    </e>
+    <e n="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction">
+      <i c="1" l="1619472540205" />
+    </e>
+    <e n="org.jetbrains.plugins.github.authentication.ui.GHAccountsPanel$3">
+      <i c="1" l="1619646269112" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterKernelManagementAction$createActionForKernelSpec$1">
+      <i c="10" l="1621676136621" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.JupyterServerChooserAction$createPopupActionGroup$actionList$1">
+      <i c="3" l="1621674036737" />
+    </e>
+    <e n="org.jetbrains.plugins.notebooks.jupyter.editor.gutter.JupyterPopupAction">
+      <i c="18" l="1620496227925" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.TerminalView$1">
+      <i c="5" l="1619646284778" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,107 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1qRb8fZaONmqGH0WF6dtx2USr9g">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rc8TNvCV0KbkkSULpV1VecIufg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rtY2kyizFxKLzWpa7Gw52EAgky">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rtY7XSUkeajZvvhKomVEliKEZ9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rtaFxVCrw5xKcjWx3PPjjPLpSV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="ju&#10;j&#10;interpreter&#10;interprete&#10;interpret" />
+    <property name="MarketplacePluginsSearchHistory" value="jup&#10;ju&#10;j&#10;login" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="vim&#10;ideavim&#10;interpre&#10;gith&#10;plugins" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.45953143" />
+    <property name="appcds.runOnSecondStart" value="PY-211.7142.13-54c231327c8a000c7d172617976815fae2907a08f4b70f53cafe5ea1f30f6eec" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.211" value="11" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/IML.HUJI&#10;/home/yp/Documents/pycharm-projects/ulauncher-moodle-extension&#10;/home/yp/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-file-search&#10;/home/yp/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github&#10;/home/yp/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events&#10;/home/yp/.local&#10;/home/yp/Documents/IML.HUJI/lab" />
+    <property name="file.gist.reindex.count" value="30802" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PY-211.7142.13" />
+    <property name="ideavim.statistics.timestamp" value="1621719182097" />
+    <property name="lastSeenTip" value="neue-Close_all_editor_tabs.html" />
+    <property name="lastTimeTipsWereShown" value="1621601319419" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.local" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="quick.doc.font.size.v3" value="MEDIUM" />
+    <property name="seenTips" value="neue-SearchInSettings.html,neue-PytestFixtures.html,neue-Managepy.html,neue-RedirectingInput.html,neue-SpellcheckerDictionaries.html,neue-Spellchecker.html,neue-Close_all_editor_tabs.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.22630458" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.conda/envs/iml.env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.conda/envs/iml.env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.conda/envs/iml.env/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="IML.HUJI-history" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619646280100" />
+      <command-history-file filename="IML.HUJI-history8" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619472148631" />
+      <command-history-file filename="IML.HUJI-history1" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619646280091" />
+      <command-history-file filename="IML.HUJI-history2" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619472148582" />
+      <command-history-file filename="IML.HUJI-history4" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619646284780" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

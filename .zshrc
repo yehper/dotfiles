@@ -1,6 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-PATH="/opt/anaconda/bin:/usr/local/itksnap-3.8.0-20190612-Linux-gcc64/bin:/usr/local/pycharm-community-2020.2.3/bin:$HOME/.cargo/bin${PATH:+:${PATH}}:$HOME/Documents/scripts"
+PATH="/opt/node-v14.16.1-linux-x64/bin:/home/yp/.local/bin:/usr/local/itksnap-3.8.0-20190612-Linux-gcc64/bin:/usr/local/pycharm-community-2020.2.3/bin:$HOME/.cargo/bin${PATH:+:${PATH}}:$HOME/Documents/scripts:/opt/anaconda/bin"
 # Path to your oh-my-zsh installation.
 export ZSH="/home/yp/.oh-my-zsh"
 export XDG_CONFIG_HOME="/home/yp/.config"

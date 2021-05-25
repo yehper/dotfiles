@@ -1,0 +1,67 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-file-search">
+          <value>
+            <RecentProjectMetaInfo frameTitle="com.github.brpaz.ulauncher-file-search – main.py" projectWorkspaceId="1rtaFxVCrw5xKcjWx3PPjjPLpSV">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990683794" />
+              <frame x="1920" y="0" width="1920" height="1079" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1619797739157" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1rtY2kyizFxKLzWpa7Gw52EAgky">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990683794" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1619797869699" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github">
+          <value>
+            <RecentProjectMetaInfo frameTitle="com.github.brpaz.ulauncher-github – main.py" projectWorkspaceId="1rtY7XSUkeajZvvhKomVEliKEZ9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990683794" />
+              <frame x="1920" y="0" width="1920" height="1079" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1619797869699" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/pycharm-projects/ulauncher-moodle-extension">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ulauncher-moodle-extension – main.py" projectWorkspaceId="1rc8TNvCV0KbkkSULpV1VecIufg">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990698670" />
+              <frame x="200" y="0" width="1910" height="1073" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1620163383517" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/IML.HUJI">
+          <value>
+            <RecentProjectMetaInfo frameTitle="IML.HUJI – mnist_data.py" opened="true" projectWorkspaceId="1qRb8fZaONmqGH0WF6dtx2USr9g">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990685696" />
+              <frame x="0" y="0" width="1920" height="1039" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1621670769035" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

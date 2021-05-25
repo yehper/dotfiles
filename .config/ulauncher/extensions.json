@@ -1,0 +1,16 @@
+{
+    "com.github.prophet-five.ulauncher-moodle": {
+        "id": "com.github.prophet-five.ulauncher-moodle",
+        "url": "https://github.com/prophet-five/ulauncher-moodle",
+        "updated_at": "2021-04-30T23:49:35.076288",
+        "last_commit": "e4c177cdb68ace386b23c04d47d4249b2c000e83",
+        "last_commit_time": "2021-04-30T20:44:09"
+    },
+    "com.github.brpaz.ulauncher-jetbrains": {
+        "id": "com.github.brpaz.ulauncher-jetbrains",
+        "url": "https://github.com/brpaz/ulauncher-jetbrains",
+        "updated_at": "2021-05-18T10:19:24.595713",
+        "last_commit": "9b87628917d4d475e16af6609955e450b78d6bc1",
+        "last_commit_time": "2021-02-03T20:02:39"
+    }
+}

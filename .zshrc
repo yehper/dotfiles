@@ -176,3 +176,6 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 export FZF_DEFAULT_COMMAND='find .'
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+export LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH"

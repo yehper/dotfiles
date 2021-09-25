@@ -31,6 +31,26 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="1vtscErfZgtlXtMxLe6tqnbfNDg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vtsrEQQvsO0qVIvj2yDXp2K10p">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1w2IFzVrtljpOx6rr5tOcvDCGqi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wuWYKgx3bYpOSQPBIwQ5nI3nkT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
       </map>
     </trackers>
   </component>
@@ -39,9 +59,11 @@
     <property name="DocumentationAutoUpdateEnabled" value="true" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="InstalledPluginsSearchHistory" value="ju&#10;j&#10;interpreter&#10;interprete&#10;interpret" />
+    <property name="InstalledPluginsSearchHistory" value="sync&#10;sy&#10;export&#10;ju&#10;j" />
     <property name="MarketplacePluginsSearchHistory" value="jup&#10;ju&#10;j&#10;login" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PACKAGE_FILTER" value="cuda&#10;tensorflow&#10;tensorflow-g&#10;atari&#10;tensorflow-gp" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="PyCharm.InitialConfiguration" value="true" />
     <property name="PyCharm.InitialConfiguration.V2" value="true" />
     <property name="PyCharm.InitialConfiguration.V3" value="true" />
@@ -49,28 +71,28 @@
     <property name="PyCharm.InitialConfiguration.V5" value="true" />
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
-    <property name="SettingsSearchHistory" value="vim&#10;ideavim&#10;interpre&#10;gith&#10;plugins" />
+    <property name="SettingsSearchHistory" value="sync&#10;export&#10;te&#10;inter&#10;master" />
     <property name="ShowDocumentationInToolWindow" value="true" />
     <property name="TextEditorWithPreview.SplitterProportionKey" value="0.45953143" />
-    <property name="appcds.runOnSecondStart" value="PY-211.7142.13-54c231327c8a000c7d172617976815fae2907a08f4b70f53cafe5ea1f30f6eec" />
+    <property name="appcds.runOnSecondStart" value="PY-211.7142.13-ab2ab7d846d7bb1530dbf901d81dfcc98a19525da0caad0fc7fc6b1b03ddcdf5" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="evlsprt3.211" value="11" />
     <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/IML.HUJI&#10;/home/yp/Documents/pycharm-projects/ulauncher-moodle-extension&#10;/home/yp/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-file-search&#10;/home/yp/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github&#10;/home/yp/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events&#10;/home/yp/.local&#10;/home/yp/Documents/IML.HUJI/lab" />
-    <property name="file.gist.reindex.count" value="30802" />
-    <property name="fileTypeChangedCounter" value="2" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/venvnew3&#10;/home/yp/venvnew2&#10;/home/yp/venvnew&#10;/usr/bin/python3.7&#10;/home/yp/.pyenv/versions/3.7.11/bin/python&#10;/home/yp/Downloads/Python-3.7.11/bin/python3.7&#10;/usr/local/bin/python3.7&#10;/opt/Python-3.7.11/bin/python3.7&#10;/home/yp/Documents/pycharm-projects/Ai_Project&#10;/home/yp/Documents/coursera_iml&#10;/home/yp/Documents/pycharm-projects/robotics_project/src/minimax.py&#10;/home/yp/Documents/pycharm-projects/robotics_project&#10;/home/yp/Desktop&#10;/home/yp/Documents/IML.HUJI&#10;/home/yp/Desktop/13a.png&#10;/home/yp/Documents/pycharm-projects/ulauncher-moodle-extension&#10;/home/yp/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-file-search&#10;/home/yp/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github&#10;/home/yp/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events&#10;/home/yp/.local&#10;/home/yp/Documents/IML.HUJI/lab" />
+    <property name="file.gist.reindex.count" value="138075" />
+    <property name="fileTypeChangedCounter" value="3" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="PY-211.7142.13" />
-    <property name="ideavim.statistics.timestamp" value="1621719182097" />
-    <property name="lastSeenTip" value="neue-Close_all_editor_tabs.html" />
-    <property name="lastTimeTipsWereShown" value="1621601319419" />
-    <property name="last_opened_file_path" value="$USER_HOME$/.local" />
+    <property name="ideavim.statistics.timestamp" value="1629971928707" />
+    <property name="lastSeenTip" value="neue-OverrideImplementMethods.html" />
+    <property name="lastTimeTipsWereShown" value="1632569241996" />
+    <property name="last_opened_file_path" value="/usr/bin/python3.7" />
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
     <property name="quick.doc.font.size.v3" value="MEDIUM" />
-    <property name="seenTips" value="neue-SearchInSettings.html,neue-PytestFixtures.html,neue-Managepy.html,neue-RedirectingInput.html,neue-SpellcheckerDictionaries.html,neue-Spellchecker.html,neue-Close_all_editor_tabs.html" />
+    <property name="seenTips" value="neue-SpeedSearchinLiveTemplates.html,neue-DotEtcInLookups.html,neue-af43ab9e.html,neue-PytestFixtures.html,neue-Welcome.html,neue-SpellcheckerDictionaries.html,neue-Close_all_editor_tabs.html,neue-MoveUpDown.html,neue-InspectionsWidget.html,neue-Spellchecker.html,neue-GoToAction.html,neue-RedirectingInput.html,neue-Managepy.html,neue-QuickJavaDoc.html,neue-SurroundWith.html,neue-SearchInSettings.html,neue-Rename.html,neue-OverrideImplementMethods.html" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="ts.lib.d.ts.version" value="4.2.2" />
     <property name="vcs.history.diff.splitter.proportion" value="0.22630458" />
@@ -78,27 +100,54 @@
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
+        <entry key="$USER_HOME$/.conda/envs/env37/bin/python" value="false" />
         <entry key="$USER_HOME$/.conda/envs/iml.env/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/3.7.11/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv3.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/venvnew/bin/python" value="false" />
+        <entry key="$USER_HOME$/venvnew2/bin/python" value="false" />
+        <entry key="$USER_HOME$/venvnew3/bin/python" value="false" />
+        <entry key="/usr/bin/python3.7" value="false" />
+        <entry key="/usr/bin/python3.8" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="$USER_HOME$/.conda/envs/env37/bin/python" value="false" />
         <entry key="$USER_HOME$/.conda/envs/iml.env/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/3.7.11/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv3.7/bin/python" value="true" />
+        <entry key="$USER_HOME$/venvnew/bin/python" value="false" />
+        <entry key="$USER_HOME$/venvnew2/bin/python" value="false" />
+        <entry key="$USER_HOME$/venvnew3/bin/python" value="false" />
+        <entry key="/usr/bin/python3.7" value="true" />
       </map>
     </option>
     <option name="SDK_TO_TRIALTEST">
       <map>
+        <entry key="$USER_HOME$/.conda/envs/env37/bin/python" value="false" />
         <entry key="$USER_HOME$/.conda/envs/iml.env/bin/python" value="false" />
+        <entry key="$USER_HOME$/.pyenv/versions/3.7.11/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv2/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project/venv3.7/bin/python" value="false" />
+        <entry key="$USER_HOME$/venvnew/bin/python" value="false" />
+        <entry key="$USER_HOME$/venvnew2/bin/python" value="false" />
+        <entry key="$USER_HOME$/venvnew3/bin/python" value="false" />
+        <entry key="/usr/bin/python3.7" value="false" />
       </map>
     </option>
   </component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="IML.HUJI-history" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619646280100" />
-      <command-history-file filename="IML.HUJI-history8" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619472148631" />
-      <command-history-file filename="IML.HUJI-history1" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619646280091" />
-      <command-history-file filename="IML.HUJI-history2" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619472148582" />
-      <command-history-file filename="IML.HUJI-history4" project-path="$USER_HOME$/Documents/IML.HUJI" last-access-time="1619646284780" />
+      <command-history-file filename="Ai_Project-history1" project-path="$USER_HOME$/Documents/pycharm-projects/Ai_Project" last-access-time="1629993842254" />
+      <command-history-file filename="robotics_project-history1" project-path="$USER_HOME$/Documents/pycharm-projects/robotics_project" last-access-time="1627650037830" />
+      <command-history-file filename="Ai_Project-history2" project-path="$USER_HOME$/Documents/pycharm-projects/Ai_Project" last-access-time="1629996059697" />
+      <command-history-file filename="Ai_Project-history" project-path="$USER_HOME$/Documents/pycharm-projects/Ai_Project" last-access-time="1629992002305" />
     </command-history-files>
   </component>
   <component name="ToolbarSettingsService">

@@ -21,14 +21,33 @@
         <entry encoding="base64">aXRlbQ==</entry>
         <entry encoding="base64">bQ==</entry>
         <entry encoding="base64">eV8=</entry>
+        <entry encoding="base64">c2VsZi5o</entry>
+        <entry encoding="base64">bm9pc2U=</entry>
+        <entry encoding="base64">c2F2ZQ==</entry>
+        <entry encoding="base64">c2F2ZWQ=</entry>
+        <entry encoding="base64">Z2M=</entry>
+        <entry encoding="base64">c3RhdGVz</entry>
+        <entry encoding="base64">TWVtb3I=</entry>
+        <entry encoding="base64">TWVtbw==</entry>
+        <entry encoding="base64">Y29weQ==</entry>
+        <entry encoding="base64">bWVtbw==</entry>
+        <entry encoding="base64">MzI=</entry>
+        <entry encoding="base64">cGxheQ==</entry>
+        <entry encoding="base64">dGVuc29yZmxvd19iYWNrZW5k</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">NjY=</entry>
         <entry encoding="base64">MTQz</entry>
         <entry encoding="base64">MTc=</entry>
         <entry encoding="base64">MTY4</entry>
-        <entry encoding="base64">ZSBDOlxVc2Vyc1x5cGVyZXR6XC5pZGVhdmltcmM=</entry>
         <entry encoding="base64">bm9o</entry>
+        <entry encoding="base64">ZSBDOlxVc2Vyc1x5cGVyZXR6XC5pZGVhdmltcmM=</entry>
+        <entry encoding="base64">Njk=</entry>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">MjU=</entry>
+        <entry encoding="base64">MTI0</entry>
+        <entry encoding="base64">NTI=</entry>
+        <entry encoding="base64">NTM=</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
       <history-expr />
@@ -38,162 +57,89 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/pycharm-projects/ulauncher-moodle-extension/main.py" timestamp="1620164461070">
-        <mark key="'" line="23" column="30" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IML.HUJI/lab/Lab 03 - Simple Linear Regression.ipynb" timestamp="1621719190400">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1620459235007">
+      <file name="/Dummy.txt" timestamp="1629997614308">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="19" />
       </file>
-      <file name="/fragment.py" timestamp="1620464622511">
+      <file name="/fragment.py" timestamp="1627474463468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IML.HUJI/EX/ex2/linear_model.py" timestamp="1619647625632">
-        <mark key="'" line="121" column="8" />
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="49" column="35" />
-        <mark key="^" line="127" column="0" />
-        <mark key="." line="49" column="35" />
+      <file name="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main1.py" timestamp="1629996801479">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="63" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/IML.HUJI/utils.py" timestamp="1621719209499">
-        <mark key="'" line="9" column="33" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="33" />
+      <file name="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment1.py" timestamp="1629996696322">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/manifest.json" timestamp="1619814729214">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="19" />
+      <file name="$USER_HOME$/Documents/pycharm-projects/robotics_project/src/kjn.py" timestamp="1627483591117">
+        <mark key="'" line="55" column="0" />
+        <mark key="i" line="50" column="26" />
+        <mark key="[" line="52" column="56" />
+        <mark key="m" line="50" column="26" />
+        <mark key="]" line="52" column="67" />
+        <mark key="^" line="52" column="67" />
+        <mark key="." line="52" column="66" />
       </file>
-      <file name="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" timestamp="1619814865115">
-        <mark key="'" line="154" column="4" />
-        <mark key="w" line="120" column="47" />
-        <mark key="j" line="86" column="0" />
-        <mark key="[" line="144" column="20" />
-        <mark key="]" line="144" column="41" />
-        <mark key="^" line="144" column="41" />
-        <mark key="." line="144" column="40" />
+      <file name="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents1.py" timestamp="1629996651748">
+        <mark key="'" line="141" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="141" column="43" />
+        <mark key="." line="141" column="42" />
+        <mark key="^" line="141" column="43" />
       </file>
-      <file name="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" timestamp="1619812338183">
-        <mark key="'" line="538" column="0" />
-        <mark key="[" line="433" column="0" />
-        <mark key="]" line="491" column="14" />
-        <mark key="^" line="306" column="8" />
-        <mark key="." line="433" column="42" />
+      <file name="$USER_HOME$/Documents/coursera_iml/venv/Linear regression.ipynb" timestamp="1627650209093">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IML.HUJI/EX/ex3/mnist_data.py" timestamp="1621322182319">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" timestamp="1629997487747">
+        <mark key="'" line="31" column="22" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+        <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" timestamp="1621401298970">
-        <mark key="'" line="216" column="9" />
-        <mark key="[" line="221" column="22" />
-        <mark key="]" line="221" column="22" />
-        <mark key="^" line="221" column="23" />
-        <mark key="." line="221" column="23" />
+      <file name="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment.py" timestamp="1629977146074">
+        <mark key="'" line="32" column="34" />
+        <mark key="[" line="39" column="58" />
+        <mark key="]" line="39" column="58" />
+        <mark key="^" line="39" column="58" />
+        <mark key="." line="39" column="57" />
       </file>
-      <file name="/comparison" timestamp="1621322868752">
+      <file name="$USER_HOME$/Documents/pycharm-projects/Ai_Project/jupy1.ipynb" timestamp="1629706257149">
+        <mark key="'" line="6" column="0" />
+      </file>
+      <file name="/kjn" timestamp="1627480942802">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/code" timestamp="1627459272285">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" timestamp="1629993492951">
+        <mark key="'" line="157" column="51" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
+      <file name="/yotests" timestamp="1629748074093">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/pycharm-projects/Ai_Project/yotests.py" timestamp="1629660815355">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="32" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="166" column="40" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="46" column="37" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="52" column="37" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="91" column="8" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="130" column="12" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="150" column="12" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="179" column="17" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="120" column="8" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="158" column="10" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="159" column="10" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="160" column="10" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="16" column="20" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="90" column="8" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="172" column="3" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="189" column="46" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="194" column="52" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="200" column="22" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="201" column="39" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="483" column="21" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="507" column="21" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="522" column="25" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="7" column="33" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="482" column="0" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="538" column="0" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.brpaz.ulauncher-github/main.py" />
-      <jump line="121" column="96" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="162" column="0" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="115" column="30" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="5" column="56" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="108" column="8" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="154" column="4" filename="$USER_HOME$/.local/share/ulauncher/extensions/com.github.prophet-five.ulauncher-moodle-upcoming-events/main.py" />
-      <jump line="23" column="30" filename="$USER_HOME$/Documents/pycharm-projects/ulauncher-moodle-extension/main.py" />
-      <jump line="97" column="8" filename="$USER_HOME$/Documents/pycharm-projects/ulauncher-moodle-extension/main.py" />
-      <jump line="93" column="42" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="103" column="4" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="105" column="244" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="109" column="0" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="110" column="3" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="112" column="41" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="116" column="32" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="121" column="22" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="123" column="90" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="124" column="83" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="125" column="83" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="126" column="78" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="127" column="78" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="129" column="37" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="130" column="37" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="131" column="38" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="132" column="38" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="133" column="9" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="134" column="38" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="138" column="4" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="140" column="16" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="142" column="151" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="144" column="91" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="145" column="131" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="147" column="217" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="151" column="0" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="152" column="7" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="154" column="4" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="156" column="8" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="160" column="10" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="162" column="9" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="163" column="41" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="165" column="29" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="166" column="17" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="169" column="85" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="170" column="75" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="171" column="67" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="172" column="99" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="173" column="55" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="174" column="38" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="177" column="4" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="179" column="8" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="183" column="13" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
-      <jump line="185" column="9" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 03 - Simple Linear Regression.ipynb" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 03 - Simple Linear Regression.ipynb" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 03 - Simple Linear Regression.ipynb" />
@@ -211,54 +157,137 @@
       <jump line="78" column="83" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 03 - Simple Linear Regression.ipynb" />
       <jump line="85" column="6" filename="$USER_HOME$/Documents/IML.HUJI/lab/Lab 03 - Simple Linear Regression.ipynb" />
       <jump line="9" column="33" filename="$USER_HOME$/Documents/IML.HUJI/utils.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="39" column="30" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="10" column="30" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="90" column="3" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="51" column="35" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="121" column="17" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="46" column="34" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="89" column="32" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="95" column="29" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="99" column="22" filename="$USER_HOME$/Documents/IML.HUJI/EX/ex4/adaboost.py" />
+      <jump line="18" column="14" filename="$USER_HOME$/Documents/pycharm-projects/robotics_project/src/kjn.py" />
+      <jump line="45" column="29" filename="$USER_HOME$/Documents/pycharm-projects/robotics_project/src/kjn.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/pycharm-projects/robotics_project/src/kjn.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/pycharm-projects/robotics_project/src/kjn.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/pycharm-projects/robotics_project/src/kjn.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/pycharm-projects/robotics_project/src/kjn.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/pycharm-projects/robotics_project/src/kjn.py" />
+      <jump line="17" column="10" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment.py" />
+      <jump line="67" column="12" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="33" column="45" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="7" column="7" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment.py" />
+      <jump line="93" column="8" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="94" column="13" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="114" column="16" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="115" column="21" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="120" column="64" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="121" column="26" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="122" column="36" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="123" column="36" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="124" column="59" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="28" column="22" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="9" column="6" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="32" column="34" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment.py" />
+      <jump line="35" column="39" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="66" column="33" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="99" column="17" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="100" column="29" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="127" column="24" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="133" column="51" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/jupy1.ipynb" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/jupy1.ipynb" />
+      <jump line="14" column="4" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="62" column="35" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="30" column="25" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="29" column="22" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main1.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main1.py" />
+      <jump line="75" column="29" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main1.py" />
+      <jump line="43" column="19" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents1.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment1.py" />
+      <jump line="7" column="8" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents1.py" />
+      <jump line="18" column="25" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment1.py" />
+      <jump line="5" column="17" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main1.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents1.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents1.py" />
+      <jump line="141" column="12" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/agents1.py" />
+      <jump line="6" column="35" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment1.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/environment1.py" />
+      <jump line="10" column="37" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main1.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main1.py" />
+      <jump line="12" column="53" filename="$USER_HOME$/Documents/pycharm-projects/Ai_Project/main1.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHgpKQpwcmludChlcHNpbG9uLnNpemUpCnByaW50KHlfLnNpemUpCmxvY2FscygpLmNsZWFyKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Z3JhcGg9Ryw=</text>
       </register>
-      <register name="+" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHgpKQpwcmludChlcHNpbG9uLnNpemUpCnByaW50KHlfLnNpemUpCmxvY2FscygpLmNsZWFyKCkK</text>
+      <register name="+" type="4">
+        <text encoding="base64">Z3JhcGg9Ryw=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXBzaWxvbg==</text>
+        <text encoding="base64">Z3JhcGg9Ryw=</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64">Zm9ybXJvbSBjb2xsZWN0aW9ucyBpbXByICAgIG9vcnQgbmFtZWR0dXBsZQ==</text>
+        <text encoding="base64" />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">eV8=</text>
+        <text encoding="base64">dGVuc29yZmxvd19iYWNrZW5k</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZXBzaWxvbi5zaXplKQo=</text>
+        <text encoding="base64">ICAgICMgZ3B1X2RldmljZXMgPSB0Zi5jb25maWcuZXhwZXJpbWVudGFsLmxpc3RfcGh5c2ljYWxfZGV2aWNlcygnR1BVJykKICAgICMgZm9yIGRldmljZSBpbiBncHVfZGV2aWNlczoKICAgICMgICAgIHRmLmNvbmZpZy5leHBlcmltZW50YWwuc2V0X21lbW9yeV9ncm93dGgoZGV2aWNlLCBUcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobGVuKHgpKQpwcmludChlcHNpbG9uLnNpemUpCnByaW50KHlfLnNpemUpCmxvY2FscygpLmNsZWFyKCkK</text>
+        <text encoding="base64">ZnJvbSBrZXJhcy5iYWNrZW5kLnRlbnNvcmZsb3dfYmFja2VuZCBpbXBvcnQgc2V0X3Nlc3Npb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGZyb20ga2VyYXMuYmFja2VuZC50ZW5zb3JmbG93X2JhY2tlbmQgCiAgICBpbXBvcnQgc2V0X3Nlc3Npb24gY29uZmlnID0gdGYuQ29uZmlnUHJvdG8oKSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UTE0X2NvbWJpbmVkKCkK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzZXRfc2Vzc2lvbiBjb25maWcgPSB0Zi5Db25maWdQcm90bygpIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyb20ga2VyYXMuYmFja2VuZC50ZW5zb3JmbG93X2JhY2tlbmQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBzZXRfc2Vzc2lvbiBjb25maWcgPSB0Zi5Db25maWdQcm90bygpIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBhZ2VudHMgaW1wb3J0IEFnZW50X0RsCmZyb20gZW52aXJvbm1lbnQgaW1wb3J0ICoKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAppbXBvcnQgdGltZQpmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBkZXF1ZQppbXBvcnQgbnVtcHkgYXMgbnAKaW1wb3J0IG9zCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgoKICAgIGFnZW50ID0gQWdlbnRfRGwoYWN0aW9uc19saXN0PXJhbmdlKDYpLCBzdGFydGluZ19tZW1fbGVuPTIwMDAsIG1heF9tZW1fbGVuPTIwMDAwLCBzdGFydGluZ19lcHNpbG9uPTAuNSwKICAgICAgICAgICAgICAgICAgICAgbGVhcm5fcmF0ZT0wLjAwMSkKICAgIGVudiA9IEF0YXJpX0VudihhZ2VudCkKCiAgICBsYXN0XzEwMF9hdmcgPSBbXQogICAgbGFzdF8xMDBfdGltZV9hdmcgPSBbXQogICAgdHJhaW5fdGltZSA9IGRlcXVlKG1heGxlbj0xMDApCiAgICBzY29yZXMgPSBkZXF1ZShtYXhsZW49MTAwKQogICAgbWF4X3Njb3JlID0gLTIxCgogICAgIiIiIGZvciB0ZXN0aW5nOgogICAgYWdlbnQubW9kZWwubG9hZF93ZWlnaHRzKCdyZWNlbnRfd2VpZ2h0cy5oZGY1JykKICAgIGFnZW50Lm1vZGVsX3RhcmdldC5sb2FkX3dlaWdodHMoJ3JlY2VudF93ZWlnaHRzLmhkZjUnKQogICAgYWdlbnQuZXBzaWxvbiA9IDAuMAogICAgIiIiCiAgICBzdGFydF90aW1lID0gdGltZS50aW1lKCkKICAgIGZvciBpIGluIHJhbmdlKDEwMDAwKToKICAgICAgICB0aW1lc3RlcHMgPSBhZ2VudC50b3RhbF90aW1lc3RlcHMKICAgICAgICB0aW1lZSA9IHRpbWUudGltZSgpCiAgICAgICAgc2NvcmUgPSBlbnYucGxheV9lcGlzb2RlKGRlYnVnPUZhbHNlKSAgIyBzZXQgZGVidWcgdG8gdHJ1ZSBmb3IgcmVuZGVyaW5nCiAgICAgICAgc2NvcmVzLmFwcGVuZChzY29yZSkKICAgICAgICB0cmFpbl90aW1lLmFwcGVuZCh0aW1lLnRpbWUoKSAtIHRpbWVlKQogICAgICAgIGlmIHNjb3JlID4gbWF4X3Njb3JlOgogICAgICAgICAgICBtYXhfc2NvcmUgPSBzY29yZQoKICAgICAgICBwcmludCgnXG5FcGlzb2RlOiAnICsgc3RyKGkpKQogICAgICAgIHByaW50KCdTdGVwczogJyArIHN0cihhZ2VudC50b3RhbF90aW1lc3RlcHMgLSB0aW1lc3RlcHMpKQogICAgICAgIHByaW50KCdEdXJhdGlvbjogJyArIHN0cih0aW1lLnRpbWUoKSAtIHRpbWVlKSkKICAgICAgICBwcmludCgnU2NvcmU6ICcgKyBzdHIoc2NvcmUpKQogICAgICAgIHByaW50KCdNYXggU2NvcmU6ICcgKyBzdHIobWF4X3Njb3JlKSkKICAgICAgICBwcmludCgnRXBzaWxvbjogJyArIHN0cihhZ2VudC5lcHNpbG9uKSkKCiAgICAgICAgIyBwbG90IGRhdGEgZXZlcnkgMTAwIGVwaXNvZGVzCiAgICAgICAgaWYgaSAlIDEwMCA9PSAwIGFuZCBpICE9IDA6CiAgICAgICAgICAgIGxhc3RfMTAwX2F2Zy5hcHBlbmQoc3VtKHNjb3JlcykgLyBsZW4oc2NvcmVzKSkKICAgICAgICAgICAgcGx0LnBsb3QobnAuYXJhbmdlKDAsIGkgKyAxLCAxMDApLCBsYXN0XzEwMF9hdmcpCiAgICAgICAgICAgIHBsdC50aXRsZShmJ0F2ZXJhZ2UgU2NvcmUnKQogICAgICAgICAgICBwbHQueGxhYmVsKCJFcGlzb2RlIikKICAgICAgICAgICAgcGx0LnlsYWJlbCgiQXZnIFNjb3JlIikKICAgICAgICAgICAgaWYgaSAlIDEwMDAgPT0gMDoKICAgICAgICAgICAgICAgIHBsdC5zYXZlZmlnKGYnc2NvcmVfYXZnX3tpIC8vIDEwMH0ucG5nJykKCiAgICAgICAgICAgIGxhc3RfMTAwX3RpbWVfYXZnLmFwcGVuZChzdW0odHJhaW5fdGltZSkgLyBsZW4odHJhaW5fdGltZSkpCiAgICAgICAgICAgIHBsdC5wbG90KG5wLmFyYW5nZSgwLCBpICsgMSwgMTAwKSwgbGFzdF8xMDBfdGltZV9hdmcpCiAgICAgICAgICAgIHBsdC50aXRsZShmJ0F2ZXJhZ2UgVHJhaW4gVGltZScpCiAgICAgICAgICAgIHBsdC54bGFiZWwoIkVwaXNvZGUiKQogICAgICAgICAgICBwbHQueWxhYmVsKCJBdmcgVGltZSAocykiKQogICAgICAgICAgICBpZiBpICUgMTAwMCA9PSAwOgogICAgICAgICAgICAgICAgcGx0LnNhdmVmaWcoZid0aW1lX2F2Z197aSAvLyAxMDB9LnBuZycpCiAgICBwcmludChmJ1RyYWluIHRpbWU6IHt0aW1lLnRpbWUoKSAtIHN0YXJ0X3RpbWV9JykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAppbXBvcnQgZ3ltCmltcG9ydCBudW1weSBhcyBucApmcm9tIGFnZW50cyBpbXBvcnQgKgoKCiMgLS0tLS0tLT0gICAgQ09OU1RBTlRTICAgICA9LS0tLS0tLQojIC0tLS0tLS09ICAgIEZVTkNUSU9OUyAgICAgPS0tLS0tLS0KCgpjbGFzcyBBdGFyaV9FbnY6CiAgICAiIiIKICAgIERlZmluZSBlbnZpcm9ubWVudCBmb3Igc3BhY2UgaW52YWRlcnMKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBhZ2VudCk6CiAgICAgICAgIyBDcmVhdGUgb3VyIGVudmlyb25tZW50CiAgICAgICAgc2VsZi5lbnYgPSBneW0ubWFrZSgnU3BhY2VJbnZhZGVycy12MCcpCiAgICAgICAgc2VsZi5hZ2VudCA9IGFnZW50CgogICAgIyAtLS0tLS0tPSAgICBNRVRIT0RTICAgICA9LS0tLS0tLQogICAgZGVmIF9tYWtlX3N0ZXAoc2VsZiwgc2NvcmUsIHN0YXRlLCBkZWJ1Zz1GYWxzZSk6Z2dWRwogICAgICAgICIiIgogICAgICAgIE1ha2UgbmV3IHN0ZXAgaW4gdGhlIGdhbWUKICAgICAgICAiIiIKICAgICAgICAjIFVwZGF0ZSB0aW1lIHN0ZXBzCiAgICAgICAgc2VsZi5hZ2VudC50b3RhbF90aW1lc3RlcHMgKz0gMQogICAgICAgICMgU2F2ZSB3ZWlnaHRzIGV2ZXJ5IDUwayBzdGVwcwogICAgICAgIGlmIHNlbGYuYWdlbnQudG90YWxfdGltZXN0ZXBzICUgNTAwMDAgPT0gMDoKICAgICAgICAgICAgc2VsZi5hZ2VudC5tb2RlbC5zYXZlX3dlaWdodHMoJ3JlY2VudF93ZWlnaHRzLmhkZjUnKQogICAgICAgICAgICBwcmludCgnXG5XZWlnaHRzIHNhdmVkIScpCgogICAgICAgICMgR2V0IG5leHQgYWN0aW9uCiAgICAgICAgbmV4dF9hY3Rpb24gPSBzZWxmLmFnZW50LmVwc2lsb25fZ3JlZWR5KHN0YXRlKQogICAgICAgIG5leHRfc3RhdGUsIG5leHRfcmV3YXJkLCBuZXh0X3Rlcm1pbmFsLCBfID0gc2VsZi5lbnYuc3RlcChuZXh0X2FjdGlvbikKICAgICAgICBjdXJyX3Njb3JlID0gc2NvcmUgKyBuZXh0X3Jld2FyZAoKICAgICAgICAjIHNhdmUgZGF0YSBvZiB0aGUgbmV4dCBzdGF0ZQogICAgICAgIHNlbGYuYWdlbnQuZXhwX2J1ZmZlci5hcHBlbmQoW3N0YXRlLCBuZXh0X2FjdGlvbiwgc2VsZi5fcmVzaXplX2ZyYW1lKG5leHRfc3RhdGUpLCBuZXh0X3Jld2FyZCwgbmV4dF90ZXJtaW5hbF0pCgogICAgICAgICMgY2hlY2sgaWYgZ2FtZSBpcyBkb25lCiAgICAgICAgaWYgbm90IG5leHRfdGVybWluYWw6CiAgICAgICAgICAgICMgcmVuZGVyIGVudiBpbiBjYXNlIG9mIGRlYnVnCiAgICAgICAgICAgIGlmIGRlYnVnOgogICAgICAgICAgICAgICAgc2VsZi5lbnYucmVuZGVyKCkKCiAgICAgICAgICAgICMgY2hlY2sgaWYgdGhlcmUgaXMgZW5vdWdoIGRhdGEgdG8gbGVhcm4gZnJvbSBpdAogICAgICAgICAgICBpZiBsZW4oc2VsZi5hZ2VudC5leHBfYnVmZmVyKSA+IHNlbGYuYWdlbnQuc3RhcnRpbmdfbWVtX2xlbjoKICAgICAgICAgICAgICAgIHNlbGYuYWdlbnQubGVhcm4oZGVidWcpCgogICAgICAgIHJldHVybiBjdXJyX3Njb3JlLCBuZXh0X3Rlcm1pbmFsCgogICAgZGVmIHBsYXlfZXBpc29kZShzZWxmLCBkZWJ1Zz1GYWxzZSk6CiAgICAgICAgIiIiCiAgICAgICAgUnVuIGdhbWUgdW50aWwgZW5kCiAgICAgICAgIiIiCiAgICAgICAgY3Vycl9zdGF0ZSA9IHNlbGYuX3Jlc2l6ZV9mcmFtZShzZWxmLmVudi5yZXNldCgpKQogICAgICAgIGRvbmUgPSBGYWxzZQogICAgICAgIHNjb3JlID0gMAogICAgICAgICMgcnVuIGdhbWUgdW50aWwgaXQgZmluaXNoCiAgICAgICAgd2hpbGUgbm90IGRvbmU6CiAgICAgICAgICAgIHNjb3JlLCBkb25lID0gc2VsZi5fbWFrZV9zdGVwKHNjb3JlLCBjdXJyX3N0YXRlLCBkZWJ1ZykKICAgICAgICByZXR1cm4gc2NvcmUKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX3Jlc2l6ZV9mcmFtZShmcmFtZSk6CiAgICAgICAgIiIiCiAgICAgICAgcmVzaXplIGZyYW1lIGFuZCB0dXJuIHRvIGdyZXkgc2NhbGUKICAgICAgICAiIiIKICAgICAgICBjb2xvciA9IG5wLmFycmF5KFsyMTAsIDE2NCwgNzRdKS5tZWFuKCkKICAgICAgICAjIENyb3AgYW5kIHJlc2l6ZSB0aGUgaW1hZ2UKICAgICAgICBpbWcgPSBmcmFtZVsyNToyMDE6MiwgOjoyXQogICAgICAgICMgQ29udmVydCB0aGUgaW1hZ2UgdG8gZ3JleXNjYWxlCiAgICAgICAgaW1nID0gaW1nLm1lYW4oYXhpcz0yKQogICAgICAgICMgSW1wcm92ZSBpbWFnZSBjb250cmFzdAogICAgICAgIGltZ1tpbWcgPT0gY29sb3JdID0gMAogICAgICAgICMgbm9ybWFsaXplIHRoZSBpbWFnZSBmcm9tIC0xIHRvICsxCiAgICAgICAgaW1nID0gKGltZyAtIDEyOCkgLyAxMjggLSAxCiAgICAgICAgcmV0dXJuIGltZy5yZXNoYXBlKDg4LCA4MCwgMSkKCgpjbGFzcyBRX1JsOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGxlYXJuX3JhdGUsIHN0YXJ0aW5nX2Vwc2lsb24pOgogICAgICAgICMgQ3JlYXRlIG91ciBlbnZpcm9ubWVudAogICAgICAgIHNlbGYuZW52ID0gZ3ltLm1ha2UoJ1NwYWNlSW52YWRlcnMtdjAnKQogICAgICAgIHNlbGYuUSA9IG5wLnplcm9zKFtzZWxmLmVudi5vYnNlcnZhdGlvbl9zcGFjZS5uLCBzZWxmLmVudi5hY3Rpb25fc3BhY2Uubl0pCiAgICAgICAgc2VsZi5lcHNpbG9uID0gc3RhcnRpbmdfZXBzaWxvbgogICAgICAgIHNlbGYuZXBzaWxvbl9kZWNheSA9IDAuMDAwMDA5CiAgICAgICAgc2VsZi5lcHNpbG9uX21pbiA9IDAuMDUKICAgICAgICBzZWxmLmdhbW1hID0gMC45NQogICAgICAgIHNlbGYubGVhcm5fcmF0ZSA9IGxlYXJuX3JhdGUKICAgICAgICBzZWxmLnRvdGFsX3RpbWVzdGVwcyA9IDAKCiAgICAjIC0tLS0tLS09ICAgIE1FVEhPRFMgICAgID0tLS0tLS0tCiAgICBkZWYgX2Vwc2lsb25fZ3JlZWR5KHNlbGYsIHN0YXRlKToKICAgICAgICAiIiIKICAgICAgICBHcmVlZHkgZXBzaWxvbiwgZHJldyByYW5kb20gbnVtYmVyIGlmIHNtYWxsZXIgdGhlbiBlcHNpbG9uIGNob29zZSByYW5kb20gYWN0aW9uIGVsc2UKICAgICAgICBjaG9vc2UgYmVzdCBwb3NzaWJsZSBhY3Rpb24KICAgICAgICAiIiIKICAgICAgICAjIGRyZXcgcmFuZG9tIG51bWJlcgogICAgICAgIHRlbXAgPSBucC5yYW5kb20ucmFuZCgpCiAgICAgICAgIyBjaGVjayBpZiBzbWFsbGVyIHRoZW4gZXBzaWxvbgogICAgICAgIGlmIHRlbXAgPCBzZWxmLmVwc2lsb246CiAgICAgICAgICAgICMgY2hvb3NlIHJhbmRvbSBhY3Rpb24KICAgICAgICAgICAgYWN0aW9uID0gbnAucmFuZG9tLnJhbmQocmFuZ2Uoc2VsZi5RLnNoYXBlWzFdKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICAjIENob29zZSBiZXN0IGFjdGlvbgogICAgICAgICAgICBhY3Rpb24gPSBucC5hcmdtYXgoc2VsZi5RW3N0YXRlLCA6XSkKICAgICAgICByZXR1cm4gYWN0aW9uCgogICAgZGVmIGxlYXJuKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIGFwcGx5IFEgbGVhcm5pbmcKICAgICAgICA6cGFyYW0gUTogUSB0YWJsZQogICAgICAgIDpyZXR1cm46CiAgICAgICAgIiIiCiAgICAgICAgc3RhdGUgPSBzZWxmLmVudi5yZXNldCgpCiAgICAgICAgcmV3YXJkID0gMAogICAgICAgICMgcnVuIGZvciAyMDAgc3RlcHMgb3IgdW50aWwgZW5kIG9mIGdhbWUKICAgICAgICBmb3IgaiBpbiByYW5nZSgyMDApOgogICAgICAgICAgICAjIGNob29zZSBhY3Rpb24KICAgICAgICAgICAgYWN0aW9uID0gc2VsZi5fZXBzaWxvbl9ncmVlZHkoc3RhdGUpCiAgICAgICAgICAgICMgYXBwbHkgYWN0aW9uCiAgICAgICAgICAgIHNfbmV3LCByLCBnb2FsX2ZsYWcsIF8gPSBzZWxmLmVudi5zdGVwKGFjdGlvbikKICAgICAgICAgICAgbWF4X3EgPSBucC5tYXgoc2VsZi5RW3NfbmV3LCA6XSkKICAgICAgICAgICAgIyBjYWxjIFEgdmFsdWUKICAgICAgICAgICAgc2VsZi5RW3N0YXRlLCBhY3Rpb25dICs9IHNlbGYubGVhcm5fcmF0ZSAqIChyICsgc2VsZi5nYW1tYSAqIG1heF9xIC0gc2VsZi5RW3N0YXRlLCBhY3Rpb25dKQoKICAgICAgICAgICAgIyB1cGRhdGUgc3RhdGUgYW5kIHJld2FyZCBmb3IgbmV4dCBzdGVwCiAgICAgICAgICAgIHJld2FyZCArPSByCiAgICAgICAgICAgIHN0YXRlID0gc19uZXcKICAgICAgICAgICAgIyB1cGRhdGUgZXBzaWxvbgogICAgICAgICAgICBpZiBzZWxmLmVwc2lsb24gPiBzZWxmLmVwc2lsb25fbWluOgogICAgICAgICAgICAgICAgc2VsZi5lcHNpbG9uIC09IHNlbGYuZXBzaWxvbl9kZWNheQogICAgICAgICAgICBzZWxmLnRvdGFsX3RpbWVzdGVwcyArPSAxCiAgICAgICAgICAgICMgc2F2ZSBRIHRhYmxlIGV2ZXJ5IDEwMDAwIHN0ZXBzCiAgICAgICAgICAgIGlmIHNlbGYudG90YWxfdGltZXN0ZXBzICUgMTAwMDAgPT0gMDoKICAgICAgICAgICAgICAgIG5wLnNhdmUoJ1FfdGFibGUubnB5Jywgc2VsZi5RKQogICAgICAgICAgICAgICAgcHJpbnQoJ1xuUSB0YWJsZSBzYXZlZCEnKQogICAgICAgICAgICBpZiBnb2FsX2ZsYWc6CiAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQobGVuKFgpKQo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgZGVxdWUKZnJvbSB0ZW5zb3JmbG93LmtlcmFzLm1vZGVscyBpbXBvcnQgU2VxdWVudGlhbCwgY2xvbmVfbW9kZWwKZnJvbSB0ZW5zb3JmbG93LmtlcmFzLmxheWVycyBpbXBvcnQgRGVuc2UsIEZsYXR0ZW4sIENvbnYyRCwgSW5wdXQKZnJvbSB0ZW5zb3JmbG93LmtlcmFzLm9wdGltaXplcnMgaW1wb3J0IEFkYW0KaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCByYW5kb20KaW1wb3J0IGdjCgoKY2xhc3MgQWdlbnRfRGw6CiAgICBkZWYgX19pbml0X18oc2VsZiwgYWN0aW9uc19saXN0LCBzdGFydGluZ19tZW1fbGVuLCBtYXhfbWVtX2xlbiwgc3RhcnRpbmdfZXBzaWxvbiwgbGVhcm5fcmF0ZSwgc3RhcnRpbmdfbGl2ZXM9NSwKICAgICAgICAgICAgICAgICBkZWJ1Zz1GYWxzZSk6CiAgICAgICAgc2VsZi5leHBfYnVmZmVyID0gZGVxdWUobWF4bGVuPW1heF9tZW1fbGVuKQogICAgICAgIHNlbGYuYWN0aW9uc19saXN0ID0gYWN0aW9uc19saXN0CiAgICAgICAgc2VsZi5lcHNpbG9uID0gc3RhcnRpbmdfZXBzaWxvbgogICAgICAgIHNlbGYuZXBzaWxvbl9kZWNheSA9IDAuMDAwMDA5CiAgICAgICAgc2VsZi5lcHNpbG9uX21pbiA9IDAuMDUKICAgICAgICBzZWxmLmdhbW1hID0gMC45NQogICAgICAgIHNlbGYubGVhcm5fcmF0ZSA9IGxlYXJuX3JhdGUKICAgICAgICBzZWxmLm1vZGVsID0gc2VsZi5fYnVpbGRfbW9kZWwoKQogICAgICAgIHNlbGYubW9kZWxfdGFyZ2V0ID0gY2xvbmVfbW9kZWwoc2VsZi5tb2RlbCkKICAgICAgICBzZWxmLnRvdGFsX3RpbWVzdGVwcyA9IDAKICAgICAgICBzZWxmLmxpdmVzID0gc3RhcnRpbmdfbGl2ZXMKICAgICAgICBzZWxmLnN0YXJ0aW5nX21lbV9sZW4gPSBzdGFydGluZ19tZW1fbGVuCiAgICAgICAgc2VsZi5sZWFybnMgPSAwCgogICAgIyAtLS0tLS0tPSAgICBNRVRIT0RTICAgICA9LS0tLS0tLQogICAgZGVmIF9idWlsZF9tb2RlbChzZWxmKToKICAgICAgICAiIiIKICAgICAgICBCdWlsZCBjbm4gZm9yIGFnZW50CiAgICAgICAgIiIiCiAgICAgICAgbW9kZWwgPSBTZXF1ZW50aWFsKCkKICAgICAgICBtb2RlbC5hZGQoSW5wdXQoKDg4LCA4MCwgMSkpKQogICAgICAgIG1vZGVsLmFkZChDb252MkQoZmlsdGVycz0zMiwga2VybmVsX3NpemU9KDgsIDgpLCBzdHJpZGVzPTQsIGRhdGFfZm9ybWF0PSJjaGFubmVsc19sYXN0IiwgYWN0aXZhdGlvbj0ncmVsdScsCiAgICAgICAgICAgICAgICAgICAgICAgICBrZXJuZWxfaW5pdGlhbGl6ZXI9dGYua2VyYXMuaW5pdGlhbGl6ZXJzLlZhcmlhbmNlU2NhbGluZyhzY2FsZT0yKSkpCiAgICAgICAgbW9kZWwuYWRkKENvbnYyRChmaWx0ZXJzPTY0LCBrZXJuZWxfc2l6ZT0oNCwgNCksIHN0cmlkZXM9MiwgZGF0YV9mb3JtYXQ9ImNoYW5uZWxzX2xhc3QiLCBhY3RpdmF0aW9uPSdyZWx1JywKICAgICAgICAgICAgICAgICAgICAgICAgIGtlcm5lbF9pbml0aWFsaXplcj10Zi5rZXJhcy5pbml0aWFsaXplcnMuVmFyaWFuY2VTY2FsaW5nKHNjYWxlPTIpKSkKICAgICAgICBtb2RlbC5hZGQoQ29udjJEKGZpbHRlcnM9NjQsIGtlcm5lbF9zaXplPSgzLCAzKSwgc3RyaWRlcz0xLCBkYXRhX2Zvcm1hdD0iY2hhbm5lbHNfbGFzdCIsIGFjdGl2YXRpb249J3JlbHUnLAogICAgICAgICAgICAgICAgICAgICAgICAga2VybmVsX2luaXRpYWxpemVyPXRmLmtlcmFzLmluaXRpYWxpemVycy5WYXJpYW5jZVNjYWxpbmcoc2NhbGU9MikpKQogICAgICAgIG1vZGVsLmFkZChGbGF0dGVuKCkpCiAgICAgICAgbW9kZWwuYWRkKERlbnNlKDUxMiwgYWN0aXZhdGlvbj0ncmVsdScsIGtlcm5lbF9pbml0aWFsaXplcj10Zi5rZXJhcy5pbml0aWFsaXplcnMuVmFyaWFuY2VTY2FsaW5nKHNjYWxlPTIpKSkKICAgICAgICBtb2RlbC5hZGQoRGVuc2UobGVuKHNlbGYuYWN0aW9uc19saXN0KSwgYWN0aXZhdGlvbj0nbGluZWFyJykpCiAgICAgICAgb3B0aW1pemVyID0gQWRhbShzZWxmLmxlYXJuX3JhdGUpCiAgICAgICAgbW9kZWwuY29tcGlsZShvcHRpbWl6ZXIsIGxvc3M9dGYua2VyYXMubG9zc2VzLkh1YmVyKCkpCiAgICAgICAgbW9kZWwuc3VtbWFyeSgpCiAgICAgICAgcHJpbnQoJ1xuQWdlbnQgSW5pdGlhbGl6ZWRcbicpCiAgICAgICAgcmV0dXJuIG1vZGVsCgogICAgZGVmIGVwc2lsb25fZ3JlZWR5KHNlbGYsIHN0YXRlKToKICAgICAgICAiIiIKICAgICAgICBHcmVlZHkgZXBzaWxvbiwgZHJldyByYW5kb20gbnVtYmVyIGlmIHNtYWxsZXIgdGhlbiBlcHNpbG9uIGNob29zZSByYW5kb20gYWN0aW9uIGVsc2UKICAgICAgICBjaG9vc2UgYmVzdCBwb3NzaWJsZSBhY3Rpb24KICAgICAgICAiIiIKICAgICAgICAjIGRyZXcgcmFuZG9tIG51bWJlcgogICAgICAgIHRlbXAgPSBucC5yYW5kb20ucmFuZCgpCiAgICAgICAgIyBjaGVjayBpZiBzbWFsbGVyIHRoZW4gZXBzaWxvbgogICAgICAgIGlmIHRlbXAgPCBzZWxmLmVwc2lsb246CiAgICAgICAgICAgICMgY2hvb3NlIHJhbmRvbSBhY3Rpb24KICAgICAgICAgICAgYWN0aW9uID0gcmFuZG9tLnNhbXBsZShzZWxmLmFjdGlvbnNfbGlzdCwgMSlbMF0KICAgICAgICBlbHNlOgogICAgICAgICAgICAjIENob29zZSBiZXN0IGFjdGlvbgogICAgICAgICAgICBpZHggPSBucC5hcmdtYXgoc2VsZi5tb2RlbC5wcmVkaWN0KHN0YXRlKSkKICAgICAgICAgICAgYWN0aW9uID0gc2VsZi5hY3Rpb25zX2xpc3RbaWR4XQogICAgICAgIHJldHVybiBhY3Rpb24KCiAgICBkZWYgc2FtcGxlX21lbW9yaWVzKHNlbGYsIGJhdGNoX3NpemUpOgogICAgICAgIHBlcm1fYmF0Y2ggPSBucC5yYW5kb20ucGVybXV0YXRpb24obGVuKHNlbGYuZXhwX2J1ZmZlcikpWzpiYXRjaF9zaXplXQogICAgICAgIG1lbSA9IG5wLmFycmF5KHNlbGYuZXhwX2J1ZmZlcilbcGVybV9iYXRjaF0KICAgICAgICByZXR1cm4gbWVtWzosIDBdLCBtZW1bOiwgMV0sIG1lbVs6LCAyXSwgbWVtWzosIDNdLCBtZW1bOiwgNF0KCiAgICBkZWYgbGVhcm4oc2VsZiwgZGVidWc9RmFsc2UpOgogICAgICAgICIiIgogICAgICAgIFRyYWluIHRoZSBtb2RlbAogICAgICAgICIiIgogICAgICAgICMgY3JlYXRlIDMyIG1pbmkgYmF0Y2ggZm9yIHRoZSBjbm4KICAgICAgICBzdGF0ZXMsIGFjdGlvbnNfdGFrZW4sIG5leHRfc3RhdGVzLCBuZXh0X3Jld2FyZHMsIG5leHRfZG9uZV9mbGFncyA9IHNlbGYuc2FtcGxlX21lbW9yaWVzKDMyKQogICAgICAgIHN0YXRlcyA9IFt4IGZvciB4IGluIHN0YXRlc10KICAgICAgICBuZXh0X3N0YXRlcyA9IFt4IGZvciB4IGluIG5leHRfc3RhdGVzXQoKICAgICAgICAjIHByZWRpY3QgYWNjb3JkaW5nIHRvIHN0YXRlcyBhbmQgYWNjb3JkaW5nIHRvIHRoZSBuZXh0IHN0YXRlcyAoaW4gb3JkZXIgdG8gZGVjcmVhc2Ugbm9pc2UpCiAgICAgICAgbGFiZWxzID0gc2VsZi5tb2RlbC5wcmVkaWN0KHN0YXRlcykKICAgICAgICBuZXh0X3N0YXRlX3ZhbHVlcyA9IHNlbGYubW9kZWxfdGFyZ2V0LnByZWRpY3QobmV4dF9zdGF0ZXMpCgogICAgICAgICMgdXBkYXRlIHRoZSBsYWJlbHMgYWNjb3JkaW5nIHRvIFJfKHQrMSkgKyBRbWF4Xyh0KzEpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMzIpOgogICAgICAgICAgICAjIGdldCByZWxldmFudCBhY3Rpb24KICAgICAgICAgICAgYWN0aW9uID0gc2VsZi5hY3Rpb25zX2xpc3QuaW5kZXgoYWN0aW9uc190YWtlbltpXSkKICAgICAgICAgICAgbGFiZWxzW2ldW2FjdGlvbl0gPSBuZXh0X3Jld2FyZHNbaV0gKyAobm90IG5leHRfZG9uZV9mbGFnc1tpXSkgKiBzZWxmLmdhbW1hICogbWF4KG5leHRfc3RhdGVfdmFsdWVzW2ldKQoKICAgICAgICAjIFRyYWluIHRoZSBtb2RlbAogICAgICAgIHNlbGYubW9kZWwuZml0KHN0YXRlcywgbGFiZWxzLCBiYXRjaF9zaXplPTMyLCBlcG9jaHM9MSwgdmVyYm9zZT0wKQoKICAgICAgICAjIHVwZGF0ZSBlcHNpbG9uIGVuZCBudW1iZXIgb2YgVHJhaW5zIHdlIGRpZAogICAgICAgIGlmIHNlbGYuZXBzaWxvbiA+IHNlbGYuZXBzaWxvbl9taW46CiAgICAgICAgICAgIHNlbGYuZXBzaWxvbiAtPSBzZWxmLmVwc2lsb25fZGVjYXkKICAgICAgICBzZWxmLmxlYXJucyArPSAxCgogICAgICAgICMgdXBkYXRlIHdlaWdodCBldmVyeSAxMDAwMCBzdGVwcwogICAgICAgIGlmIHNlbGYubGVhcm5zICUgMTAwMDAgPT0gMDoKICAgICAgICAgICAgc2VsZi5tb2RlbF90YXJnZXQuc2V0X3dlaWdodHMoc2VsZi5tb2RlbC5nZXRfd2VpZ2h0cygpKQogICAgICAgICAgICBwcmludCgnXG5UYXJnZXQgbW9kZWwgdXBkYXRlZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">dw==</text>
@@ -267,8 +296,8 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">eV8=</last-search>
-      <last-pattern encoding="base64">eV8=</last-pattern>
+      <last-search encoding="base64">dGVuc29yZmxvd19iYWNrZW5k</last-search>
+      <last-pattern encoding="base64">dGVuc29yZmxvd19iYWNrZW5k</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">dHJ1ZQ==</show-last>
     </search>

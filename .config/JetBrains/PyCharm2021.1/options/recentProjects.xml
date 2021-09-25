@@ -51,17 +51,66 @@
         </entry>
         <entry key="$USER_HOME$/Documents/IML.HUJI">
           <value>
-            <RecentProjectMetaInfo frameTitle="IML.HUJI – mnist_data.py" opened="true" projectWorkspaceId="1qRb8fZaONmqGH0WF6dtx2USr9g">
+            <RecentProjectMetaInfo frameTitle="IML.HUJI – quiz4.py" projectWorkspaceId="1qRb8fZaONmqGH0WF6dtx2USr9g">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PY-211.7142.13" />
-              <option name="buildTimestamp" value="1618990685696" />
+              <option name="buildTimestamp" value="1618990697159" />
               <frame x="0" y="0" width="1920" height="1039" extendedState="6" />
               <option name="productionCode" value="PY" />
-              <option name="projectOpenTimestamp" value="1621670769035" />
+              <option name="projectOpenTimestamp" value="1624209500458" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/multi-robots">
+          <value>
+            <RecentProjectMetaInfo frameTitle="multi-robots – main.py" projectWorkspaceId="1vtscErfZgtlXtMxLe6tqnbfNDg">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990719259" />
+              <frame x="0" y="0" width="1920" height="1039" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1627454682455" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/pycharm-projects/robotics_project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="robotics_project – kjn.py" projectWorkspaceId="1vtsrEQQvsO0qVIvj2yDXp2K10p">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990719259" />
+              <frame x="0" y="0" width="1920" height="1039" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1627454695274" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/coursera_iml">
+          <value>
+            <RecentProjectMetaInfo frameTitle="coursera_iml – main.py" projectWorkspaceId="1w2IFzVrtljpOx6rr5tOcvDCGqi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990712655" />
+              <frame x="0" y="0" width="1920" height="1039" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1627650156724" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/pycharm-projects/Ai_Project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Ai_Project – main1.py" opened="true" projectWorkspaceId="1wuWYKgx3bYpOSQPBIwQ5nI3nkT">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-211.7142.13" />
+              <option name="buildTimestamp" value="1618990722364" />
+              <frame x="0" y="0" width="1080" height="1879" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1629991665738" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents" />
   </component>
 </application>

@@ -15,24 +15,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab/Lab 03 - Simple Linear Regression.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
+        <entry file="file://$USER_HOME$/.conda/envs/iml.env/lib/python3.7/collections/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8112">
+              <caret line="345" selection-start-line="345" selection-end-line="345" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils.py">
+        <entry file="file://$PROJECT_DIR$/EX/ex4/ex4_tools.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="2880">
+              <caret line="126" selection-start-line="126" selection-end-line="126" />
+              <folding>
+                <element signature="e#209#227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EX/ex4/adaboost.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3792">
+              <caret line="160" column="15" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
+              <folding>
+                <element signature="e#198#216#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.conda/envs/iml.env/lib/python3.7/collections/__init__.py">
+        <entry file="file://$PROJECT_DIR$/EX/quiz4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="329" column="4" selection-start-line="329" selection-start-column="4" selection-end-line="329" selection-end-column="4" />
+            <state relative-caret-position="462">
+              <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.conda/envs/iml.env/lib/python3.7/site-packages/numpy/lib/shape_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6000">
+              <caret line="263" selection-start-line="263" selection-end-line="263" />
             </state>
           </provider>
         </entry>
@@ -46,6 +77,8 @@
       <option value="$PROJECT_DIR$/lab/Lab 02 - Data Simulation and Sampling.ipynb" />
       <option value="$PROJECT_DIR$/lab/Lab 03 - Simple Linear Regression.ipynb" />
       <option value="$PROJECT_DIR$/utils.py" />
+      <option value="$PROJECT_DIR$/EX/ex4/adaboost.py" />
+      <option value="$PROJECT_DIR$/EX/quiz4.py" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -69,7 +102,7 @@
             <path>
               <item name="IML.HUJI" type="b2602c69:ProjectViewProjectNode" />
               <item name="IML.HUJI" type="462c0819:PsiDirectoryNode" />
-              <item name="lab" type="462c0819:PsiDirectoryNode" />
+              <item name="EX" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -79,24 +112,23 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55019000" />
+    <option name="totallyTimeSpent" value="78169000" />
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11015625" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Commit" order="3" />
+      <window_info id="Commit" order="3" weight="0.24192709" />
       <window_info id="Pull Requests" order="4" />
       <window_info id="Learn" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.46453202" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.29310346" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.49973375" side_tool="true" visible="true" weight="0.24187192" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32955664" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4004926" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.50026625" weight="0.4004926" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32955664" />
+      <window_info anchor="bottom" id="Problems View" order="6" sideWeight="0.50026625" weight="0.32955664" />
       <window_info anchor="bottom" id="Jupyter" order="7" weight="0.07635468" />
       <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -105,13 +137,13 @@
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="13" />
       <window_info anchor="bottom" id="Python Packages" order="14" />
-      <window_info anchor="bottom" id="Python Console" order="15" visible="true" weight="0.15517241" />
+      <window_info anchor="bottom" id="Python Console" order="15" sideWeight="0.50026625" visible="true" weight="0.24187192" />
       <window_info anchor="bottom" id="Flow" order="16" />
       <window_info anchor="bottom" id="Services" order="17" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="SciView" order="1" sideWeight="0.7594524" weight="0.32994792" />
+      <window_info anchor="right" id="SciView" order="1" sideWeight="0.8946981" visible="true" weight="0.3424479" />
       <window_info anchor="right" id="Key Promoter X" order="2" />
-      <window_info anchor="right" x="0" y="0" width="430" height="839" id="Documentation" order="3" sideWeight="0.2405476" side_tool="true" visible="true" weight="0.099218756" />
+      <window_info anchor="right" x="0" y="0" width="430" height="839" id="Documentation" order="3" sideWeight="0.10530192" side_tool="true" visible="true" weight="0.3424479" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
@@ -144,14 +176,16 @@
       <window_info anchor="right" x="0" y="0" width="430" height="839" id="Documentation" order="3" side_tool="true" visible="true" weight="0.32994792" />
     </layout-to-restore>
     <recentWindows>
-      <value>Project</value>
-      <value>Version Control</value>
       <value>Python Console</value>
-      <value>SciView</value>
-      <value>Documentation</value>
-      <value>Jupyter</value>
       <value>Problems View</value>
       <value>Debug</value>
+      <value>SciView</value>
+      <value>Event Log</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Documentation</value>
+      <value>Version Control</value>
+      <value>Jupyter</value>
       <value>Terminal</value>
       <value>Run</value>
     </recentWindows>
@@ -170,62 +204,70 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="182" y="85" width="1536" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1619646360116" />
-    <state x="743" y="330" width="424" height="478" key="FileChooserDialogImpl" timestamp="1619796646135">
+    <state x="175" y="376" width="424" height="478" key="FileChooserDialogImpl" timestamp="1627373183244">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="330" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1619796646135" />
-    <state width="1878" height="52" key="GridCell.Tab.0.bottom" timestamp="1620496762124">
+    <state x="175" y="376" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1627373183244" />
+    <state width="939" height="378" key="GridCell.Tab.0.bottom" timestamp="1624209963279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="52" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620496762124" />
-    <state width="1878" height="52" key="GridCell.Tab.0.center" timestamp="1620496762124">
+    <state width="939" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624209963279" />
+    <state width="939" height="378" key="GridCell.Tab.0.center" timestamp="1624209963272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="52" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620496762124" />
-    <state width="1878" height="52" key="GridCell.Tab.0.left" timestamp="1620496762121">
+    <state width="939" height="378" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624209963272" />
+    <state width="939" height="378" key="GridCell.Tab.0.left" timestamp="1624209963271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="52" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620496762121" />
-    <state width="1878" height="52" key="GridCell.Tab.0.right" timestamp="1620496762124">
+    <state width="939" height="378" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624209963271" />
+    <state width="939" height="378" key="GridCell.Tab.0.right" timestamp="1624209963279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="52" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620496762124" />
-    <state width="1878" height="378" key="GridCell.Tab.1.bottom" timestamp="1620465744423">
+    <state width="939" height="378" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624209963279" />
+    <state width="939" height="378" key="GridCell.Tab.1.bottom" timestamp="1624209963280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620465744423" />
-    <state width="1878" height="378" key="GridCell.Tab.1.center" timestamp="1620465744422">
+    <state width="939" height="378" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624209963280" />
+    <state width="939" height="378" key="GridCell.Tab.1.center" timestamp="1624209963280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="378" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620465744422" />
-    <state width="1878" height="378" key="GridCell.Tab.1.left" timestamp="1620465744422">
+    <state width="939" height="378" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624209963280" />
+    <state width="939" height="378" key="GridCell.Tab.1.left" timestamp="1624209963280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="378" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620465744422" />
-    <state width="1878" height="378" key="GridCell.Tab.1.right" timestamp="1620465744423">
+    <state width="939" height="378" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624209963280" />
+    <state width="939" height="378" key="GridCell.Tab.1.right" timestamp="1624209963280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1878" height="378" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620465744423" />
+    <state width="939" height="378" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624209963280" />
     <state x="719" y="226" width="472" height="581" key="RollbackChangesDialog" timestamp="1621675952140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="226" width="472" height="581" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1621675952140" />
-    <state x="464" y="154" key="SettingsEditor" timestamp="1621674048883">
+    <state x="464" y="154" key="SettingsEditor" timestamp="1623511699979">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1621674048883" />
+    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1623511699979" />
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1623520254769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1623520254769" />
     <state x="721" y="367" width="477" height="299" key="cloudConfig.PluginsDialog" timestamp="1619470072562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="721" y="367" width="477" height="299" key="cloudConfig.PluginsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1619470072562" />
-    <state x="725" y="260" width="450" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619796568443">
+    <state x="725" y="260" width="450" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624210362389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="725" y="260" width="450" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1619796568443" />
+    <state x="725" y="260" width="450" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1624210362389" />
     <state x="768" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620463468280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="768" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1620463468280" />
+    <state x="729" y="236" width="452" height="560" key="git4idea.branch.GitSmartOperationDialog" timestamp="1623520168729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="236" width="452" height="560" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1623520168729" />
     <state x="770" y="421" width="369" height="190" key="git4idea.ui.GitStashDialog" timestamp="1619646466366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -335,15 +377,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
+        <state relative-caret-position="216">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.conda/envs/iml.env/lib/python3.7/collections/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="329" column="4" selection-start-line="329" selection-start-column="4" selection-end-line="329" selection-end-column="4" />
+        <state relative-caret-position="8112">
+          <caret line="345" selection-start-line="345" selection-end-line="345" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EX/ex4/ex4_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+          <folding>
+            <element signature="e#209#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EX/ex4/adaboost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3792">
+          <caret line="160" column="15" selection-start-line="160" selection-start-column="15" selection-end-line="160" selection-end-column="15" />
+          <folding>
+            <element signature="e#198#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/iml.env/lib/python3.7/site-packages/numpy/lib/shape_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6000">
+          <caret line="263" selection-start-line="263" selection-end-line="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EX/quiz4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
